@@ -9,7 +9,7 @@ The dataset (`data/dataset.jsonl`) contains 30000 examples in total. All of thes
 I also included the output of each stage of my dataset creation process in `data/`.
 
 
-_Disclaimer:_ this dataset has not been filtered in any way. If you notice any text that is offensive, I'll be happy to remove it from the data.
+_Disclaimer:_ this dataset has not been filtered in any way. If you notice any text that is offensive, I'll be happy to remove it from the data. This repository is not owned by or associated with OpenAI.
 
 
 If you use this dataset, please include a link to my blogpost and this Github repository. Feel free to contact me at kgoel [at] cs [dot] stanford [dot] edu.
