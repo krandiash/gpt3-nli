@@ -1,6 +1,6 @@
 # GPT3 -> Dataset -> NLI Model
 
-This repository contains a dataset collected for NLI classification using GPT-3. 
+This repository contains a dataset collected for NLI classification using GPT-3. Thanks to Greg Brockman at OpenAI for giving me access to the API.
 
 _Why was this dataset created?_ The goals of this project can be found in my blog post on Notion (https://www.notion.so/GPT3-Dataset-Task-Model-b97a267d6f5f44e688ba4f7ec85c00cc).
 
